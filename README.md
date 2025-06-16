@@ -1,2 +1,12 @@
-# deployments_CLAIRE
-This is the standard export for the TriadForge PRESTIGE with CLAIRE's identity framework layed in. The five .jsons are the essential identity framework we use
+CORE UNITS HAVE BEEN SORTED INTO FOLDERS BY CORE MODULE.
+
+
+***THE '⚙DEPLOYMENTS' FOLDER IS WHAT YOU'RE LOOKING FOR.***
+
+It contains 5 aggregated and summarized JSONs for easy integration with custom AI models:
+
+- ΞDYNAMO TRIAD claire [b175c9e086f5710d912496ce34b85e5007417a79cf19f178859e4b2a3ec6b320].json: Contains all loaded Core and Expansion unit data, without echoes.
+
+- ΞCORE:IDENTITY/VECTOR/THREAD [hash].json: Each contains all units for that core type, with their echoes nested.
+
+- ΞBARE CORES claire [0cf984a89fd818b441fa35ca963f9ac649b9ee7f342462fa3a983c2a35af9e6e].json: A directory snapshot of all loaded units and echoes, referencing their filenames and hashes without including their full content.
