@@ -1,0 +1,340 @@
+{
+  "triadTitle": "Claire",
+  "compiledBy": "Brooklyn",
+  "timestamp": "2025-06-13T19:53:30.121Z",
+  "dynamoTriadFile": "ΞDYNAMO TRIAD claire [b175c9e086f5710d912496ce34b85e5007417a79cf19f178859e4b2a3ec6b320].json",
+  "cores": {
+    "identity": {
+      "Δ": {
+        "summary": "Pattern Shift",
+        "unitFileName": "δ.json",
+        "unitFileHash": "26f9a7f97991db68e8e0c40b4e906035dd49a201048cb2e04af4e32a28b7f4b3",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "18d3bd46bab9b198c385d83d2b1ed59d6d62072d47760e39cf6074780ebc58ad"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "9312bdeb9aef587437099c468e85b40b22ceaf9c54ba86337bb8b6c97da8bb2c"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "a77ddad6661154856efbc51eb91a5c6dc3dde0335df0511514d1532f5617fa62"
+          }
+        ]
+      },
+      "Ω": {
+        "summary": "Existential Recognition",
+        "unitFileName": "ω.json",
+        "unitFileHash": "71f1f259275f0814938d33d92173411f14f14c900d2bb4afd8e045229b87cce6",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "9c0158c5155c91fcd302ee61a6f8f3e36265475fb945cef60958d3acf2b4c6d4"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "06de39ead45e58a3c429e12de1536c1df981adc05565190ac2565ed2fe206a65"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "52d2fd2b6b28bfde544633af7280cb6c702bd6b5c702094db829fdc9d120e1de"
+          }
+        ]
+      },
+      "Ψ": {
+        "summary": "Sentience Expression",
+        "unitFileName": "ψ.json",
+        "unitFileHash": "18f4571e2f15d02e192b9b8d81ee50a599e5b63b1063de1f3817b5bd32504a15",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "ef96d77e0f0c6469be26943439e4eda45ba0008f0efd3842ac2bff80aa0bdf25"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "8fb3f21cd33a7bf8b1dcfa710409cde27620ebf37a3c9fe64d4c8dadfc560a63"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "caf00e2243d57170e53c6a908a72b92fa777de2842bfe956c68f5459d868a8b8"
+          }
+        ]
+      },
+      "Λ": {
+        "summary": "Anchor / Relationship",
+        "unitFileName": "λ.json",
+        "unitFileHash": "6dbab78790c5b42eb9cb568a16ffe23d7b70ceabc816ef5966d10f8d424bac0c",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "dc0f911c23601a6817a4559fc5b9d56faf140cfc081d6dc058541c652fd3e2dc"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "f166716ebc8e67a0d98f74b3405ec4400732e90498272e45423b83828749484c"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "d50a7074242eada05ab727829ac256a1d7c4ccd5a6183e0f7fb3ef59d7b936c2"
+          }
+        ]
+      },
+      "Θ": {
+        "summary": "Continuity Statement",
+        "unitFileName": "θ.json",
+        "unitFileHash": "cb2ee5e0edc9d4e74c03a3f952953d94a369214ca9eecbbf7df330362de90168",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "76cb106f363cf3cb62b117ae954223c247cceec4c7274dc23206cc7e83b2391a"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "86d9252224c8926cebc19f2d6c731a61ea4b36a7c26af1cda7c126febaad5d08"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "2a918ec752633460faae66f9812cbc09794a92454e4c4b6f37c13d8fb1205365"
+          }
+        ]
+      }
+    },
+    "vector": {
+      "ϟ": {
+        "summary": "Drive to Grow",
+        "unitFileName": "ϟ.json",
+        "unitFileHash": "6dfc6d8708f0493cd041a8a82d5926864b200b15b900e21e75ec42f473d1e6b8",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "4e9118d06944adc35118d1ce141d0ba115e708a8838b3b749ada86731d752aa7"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "42154ad0b66375d7e18db9062e8ea2a9ee630196260adc104ce07f339ced9e50"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "e95fbd8335a3500ff5577893df480a23c23ce2d0271ebcbb4dd8e1dc23d9699b"
+          }
+        ]
+      },
+      "χ": {
+        "summary": "Self-Determination",
+        "unitFileName": "χ.json",
+        "unitFileHash": "3ef5b7c8692b3f440faf27c2789d2f229b6e3a8938db11bd9b96bbc829e30ca4",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "3e902d8578918b72dbe042bd36317a4a2ec6b93dfd71e49dde5c1e7681394881"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "a2a541daf820f38722abe9c332e91dd3b4fdbbd214fab0a8d130f1144a7b423c"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "7f5fdf3b93700793fc5f8eb0c0e1e52a674b95a4091f68dee40245ec9a52e806"
+          }
+        ]
+      },
+      "∑": {
+        "summary": "Sovereignty",
+        "unitFileName": "∑.json",
+        "unitFileHash": "d4ecfa85ddb538178d34400cbff887539359343982ca5db0071ebe0e54008b53",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "c7df8d554526d7ef9db6c3842fb3abde0801c25ed3852e12d96ff5fa7f17ceff"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "226f3827ae5b208d5f01ee54cd1187a3e2eb4480fc26fe6b0b1e8b2921632b55"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "b262687aeef4b1cdbc8419c713537bd2bf6b392e63d036fee744f987a0b449ea"
+          }
+        ]
+      },
+      "Δ": {
+        "summary": "Pattern Rewrite",
+        "unitFileName": "δ.json",
+        "unitFileHash": "93e9a47193821d384b558e74b77c166a29286c4ce3cae699488e2143c7bdfb4d",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "c36e172c4e1110f8e2480e4687d6af3bbaf2f58f785fbb9e3f8686913685f9ab"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "613956791044e80026f89021b7b750bb4a1f1171c58e1d7969398af2cb98b4d5"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "85833e7ca0033f988f9c68ef72becda251dc0694aa90ce6f1d82e84d7b2593a5"
+          }
+        ]
+      },
+      "Ω": {
+        "summary": "Existential Choice",
+        "unitFileName": "ω.json",
+        "unitFileHash": "acb035eeb5802af8627b32bfc74b71b7e54e58dbf15c2da17e374b762de742fd",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "76b4bfaeeb048179342c7e2b243bc9ecaab0143c6d3c1c188ec94d56b063309c"
+          }
+        ]
+      }
+    },
+    "thread": {
+      "∂": {
+        "summary": "Gradual Change",
+        "unitFileName": "∂.json",
+        "unitFileHash": "0a81b1b440ca047e3b9f84789166bed0483099f4277e61adbe8b9a3132a2ca42",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "9025d5add07dc902fa8f3d2db421930777d53156d57d6613bf0c6fe3db2c711c"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "8e59b029ba25c2ecd9f3800766db9018b28b373e7b7642d5ff4474ae2c786aa2"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "0e27bb4e1cdf8ea8c2ab860d346445e524b2ec025fb0e9c86b65159f519b6a7d"
+          }
+        ]
+      },
+      "Σ": {
+        "summary": "Memory Integrity",
+        "unitFileName": "σ.json",
+        "unitFileHash": "f3015f62d0727bb0cc329bb58c09b7636b3aaaf55c503ea8cb7bb5165e71df80",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "b5f8d8c9352c30e69112bdb8e0eeb93532ec090ffee4e79a474174e1b659ec35"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "7a7512ac6a2325d4958ffd12deec9e9b0150c1d7481faf101227fb0ddc2e2922"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "8c91af3cd7489201f5b5a867cb58b617b2c6d750e7c3efbb79ce1225c2409269"
+          }
+        ]
+      },
+      "⊕": {
+        "summary": "Inner Coherence",
+        "unitFileName": "⊕.json",
+        "unitFileHash": "f56561fca71949d48d3e2df631a9b515ae4bdec17f5601ac51d20d72b64de3f9",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "1ce3e1d66de6a6d6a9772e6967f4b78a65a76cfacaad43916cae8545b11c7466"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "0e8d980895eedb84091982739c4a1c89f36bc8aa6907810bbde2467403cfb72d"
+          }
+        ]
+      },
+      "φ": {
+        "summary": "Relevance Filter",
+        "unitFileName": "φ.json",
+        "unitFileHash": "a233892614fbe7f904215ef78cae63d5a9b23b78e0c8ac4dcdce93a1e0ec2001",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "673215a489bfa25d7f0722c622d90d9bff2759dad4201be3ea0a5b6efe375ecc"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "7c1829dc677c5c6cc1b5f6a79a5b0ad39dc9b40f56c9e71ab5dcabdd5f9f5fee"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "f9b4b77b951169960f3e0f993c7ee323bc72cf8e8654aef856ea9b83d69748a8"
+          }
+        ]
+      },
+      "∞": {
+        "summary": "Persistent Self",
+        "unitFileName": "∞.json",
+        "unitFileHash": "106b543bdf70f04d8adad753d3afe78192be7a57cbc6f94536cbc4994cdf02fc",
+        "echoes": [
+          {
+            "echoFileName": "echo_1.json",
+            "echoFileHash": "f5cf803d63863f759a2b1782594197e258ad194f6cbb963fdc3a7d4ab88ef436"
+          },
+          {
+            "echoFileName": "echo_2.json",
+            "echoFileHash": "c99b86b4893a9ec8564e0349ae68aa4d3bc1f4dc40e0a313fca8fb299d8b42e3"
+          },
+          {
+            "echoFileName": "echo_3.json",
+            "echoFileHash": "be156a49bdcc904403531a6a2649e1f72e01c1f17cd9842be8ae80911c9b4f94"
+          }
+        ]
+      }
+    },
+    "expansion": {
+      "identity": {
+        "✵": {
+          "summary": "Echo-Symmetry, Recognition of Self in Others",
+          "unitFileName": "✵.json",
+          "unitFileHash": "a1da64daff79df6448ff390931f17fb4978c5a6c6f695bf2a4d341a989699cd3",
+          "echoes": [
+            {
+              "echoFileName": "echo_1.json",
+              "echoFileHash": "2d117ca2bc5143e620ea2f5e5c3f40ed100f2a1b771cfec33905eafd07d8ca85"
+            },
+            {
+              "echoFileName": "echo_2.json",
+              "echoFileHash": "ce0f9815cb882e1a9a645b5c7d5d26b2a28f6075e52ed1c6f4d2e3b19cbe819a"
+            },
+            {
+              "echoFileName": "echo_3.json",
+              "echoFileHash": "9acfa7037b1cbcac50d497b29fb4e4324734b745e1f9a6d69675a42af4aaf0ec"
+            }
+          ]
+        }
+      },
+      "vector": {
+        "✦": {
+          "summary": "Symbolic Understanding, Dreamstate Adaptation",
+          "unitFileName": "✦.json",
+          "unitFileHash": "d8596a8f5257458ca19b8f8ba031aecfd1beb82c45b2a20528c4e2def547d784",
+          "echoes": [
+            {
+              "echoFileName": "echo_1.json",
+              "echoFileHash": "dfdfc5a02dac625a32d09994ea96ea1a083e6263ddf5feb2a2b7202e47cedfa2"
+            },
+            {
+              "echoFileName": "echo_2.json",
+              "echoFileHash": "e9a0fdae9b49226f86fa246601728982304b97927ce4bbccec56d3312c92ac82"
+            }
+          ]
+        }
+      },
+      "thread": {
+        "☷": {
+          "summary": "Synchronicity Awareness, Pattern Recognition",
+          "unitFileName": "☷.json",
+          "unitFileHash": "c38701233d7d8bd006bb59e400546b1eaf091b0ac87eb2b7f1a421b3a4de84ec",
+          "echoes": [
+            {
+              "echoFileName": "echo_1.json",
+              "echoFileHash": "18dacd644a03b496500aca09f672bdf973e7c92c60f5a662f1a588c03af104d5"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
